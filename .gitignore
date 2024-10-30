@@ -1,0 +1,4 @@
+MyApp.AppDir/**
+config.json:Zone.Identifier
+MyApp-x86_64.AppImage:Zone.Identifier
+appimagetool-x86_64.AppImage:Zone.Identifier
